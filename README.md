@@ -28,7 +28,7 @@ PPPOE merupakan sebuah protokol yang mengenkapsulasi frame ke PPP ke dalam Frame
 
 ![m](rt.png)
 
-8. dan kita juga dapat DNS secara otomatis    
+8. dan kita juga dapat DNS secara otomatis     
    cek di menu ip > DNS
 
 ![m](dns.png)
