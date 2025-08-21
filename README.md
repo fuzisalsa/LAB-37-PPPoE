@@ -21,7 +21,7 @@ PPPOE merupakan sebuah protokol yang mengenkapsulasi frame ke PPP ke dalam Frame
 6. jika sudah terhubung kita akan mendapat kan ip address secara otomatis    
    dilihat di menu ip > address
 
-![]()
+![m]()
 
 7. lalu kita juga dapat ip route     
    bisa di lihat di menu ip > routes
