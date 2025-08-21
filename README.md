@@ -62,3 +62,7 @@ PPPOE merupakan sebuah protokol yang mengenkapsulasi frame ke PPP ke dalam Frame
 9. lalu ping untuk mengetes jaringan internet   
 
 ![m](pink.png)
+
+# kesimpulan 
+
+PPPoE (Point-to-Point Protocol over Ethernet) adalah protokol jaringan yang menggabungkan PPP dengan Ethernet, dan sering digunakan untuk mengelola koneksi internet secara individual dalam satu jaringan fisik, seperti yang biasa diterapkan oleh ISP (Internet Service Provider) kepada pelanggan.
